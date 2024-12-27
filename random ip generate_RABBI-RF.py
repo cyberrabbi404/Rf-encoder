@@ -1,3 +1,5 @@
+#কিরে চোর মাদারচোর 
+#স্ক্রিপ্ট চোর সালা তোর 
 # Obfuscated with PyObfuscate
 # https://www.github.com/htr-tech
 # Time : Mon Dec 23 07:35:29 2024
